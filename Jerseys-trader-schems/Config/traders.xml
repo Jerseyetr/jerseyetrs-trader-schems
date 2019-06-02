@@ -1,0 +1,92 @@
+<configs>
+<append xpath="/traders/trader_item_groups/trader_item_group[@name='modGunT1']">
+			<item name="modGunChokeSchematic"/>
+			<item name="modGunDuckbillSchematic"/>
+			<item name="modGunBipodSchematic"/>
+			<!--<item name="modGunFlashSuppressor"/>-->
+			<item name="modGunFlashlightSchematic"/>
+			<item name="modGunForegripSchematic"/>
+			<item name="modGunMagazineExtenderSchematic"/>
+			<item name="modGunMeleeTheHunterSchematic"/>
+			<item name="modGunMuzzleBrakeSchematic"/>
+			<item name="modGunScopeSmallSchematic"/>
+			<item name="modShotgunSawedOffBarrelSchematic"/>
+			<item name="modGunTriggerGroupSemiSchematic"/>
+	</append>
+		<append xpath="/traders/trader_item_groups/
+			trader_item_group[@name='modGunT2">
+			<item name="modGunBarrelExtenderSchematic"/>
+			<item name="modGunCrippleEmSchematic"/>
+			<item name="modGunLaserSightSchematic"/>
+			<item name="modGunReflexSightSchematic"/>
+			<item name="modGunRetractingStockSchematic"/>
+			<item name="modGunScopeMediumSchematic"/>
+			<item name="modGunSoundSuppressorSilencerSchematic"/>
+			<item name="modGunTriggerGroupBurstSchematic"/>
+			<item name="modGunLaserSightSchematic"/>
+	</append>
+		<append xpath="/traders/trader_item_groups/
+			trader_item_group[@name='modGunT3">
+			<item name="modGunBowPolymerStringSchematic"/>
+			<item name="modGunRodAndSpringSchematic"/>
+			<item name="modGunScopeLargeSchematic"/>
+			<item name="modGunTriggerGroupAutomaticSchematic"/>
+	</append>
+	<append xpath="/traders/trader_item_groups/
+		trader_item_group[@name='modMeleeT1">
+		<item name="modMeleeStructuralBraceSchematic"/>
+		<item name="modMeleeSerratedBladeSchematic"/>
+		<item name="modMeleeGraveDiggerSchematic"/>
+		<item name="modMeleeWoodSplitterSchematic"/>
+		<item name="modMeleeWeightedHeadSchematic"/>
+	</append>
+		<append xpath="/traders/trader_item_groups/
+		trader_item_group[@name='modMeleeT2">
+		<item name="modMeleeClubBurningShaftSchematic"/>
+		<item name="modMeleeFortifyingGripSchematic"/>
+		<item name="modMeleeClubBarbedWireSchematic"/>
+		<item name="modMeleeBunkerBusterSchematic"/>
+	</append>
+<append xpath="/traders/trader_item_groups/
+		trader_item_group[@name='modMeleeT3">
+		<item name="modMeleeErgonomicGripSchematic"/>
+		<item name="modMeleeClubMetalSpikesSchematic"/>
+		<item name="modMeleeIronBreakerSchematic"/>
+		<item name="modMeleeTemperedBladeSchematic"/>
+	</append>
+<append xpath="/traders/trader_item_groups/
+		trader_item_group[@name='modGunMeleeT2">
+		<item name="modGunMeleeTheHunterSchematic"/>
+		<item name="modGunMeleeRadRemoverSchematic"/>
+		<item name="modGunMeleeBlessedMetalSchematic"/>
+		<item name="modGunMeleeFeelTheHeatSchematic"/>
+	</append>
+<append xpath="/traders/trader_item_groups/
+		trader_item_group[@name='modAmorT1">
+		<item name="modArmorHelmetLightSchematic"/>
+			<item name="modArmorInsulatedLinerSchematic"/>
+			<item name="modArmorCoolingMeshSchematic"/>
+			<item name="modArmorReinforcedPaddingSchematic"/>
+			<item name="modArmorScrapPlatingSchematic"/>
+			<item name="modArmorStoragePocketSchematic"/>
+			<item name="modArmorImprovedFittingsSchematic"/>
+	</append>
+<append xpath="/traders/trader_item_groups/
+		trader_item_group[@name='modAmorT2">
+		<item name="modArmorWaterPurifierSchematic"/>
+			<item name="modArmorImpactBracingSchematic"/>
+			<item name="modArmorPlasticPlatingSchematic"/>
+			<item name="modArmorIronPlatingSchematic"/>
+			<item name="modArmorMuffledConnectorsSchematic"/>
+			<item name="modArmorDoubleStoragePocketSchematic"/>
+			<item name="modArmorCustomizedFittingsSchematic"/>
+	</append>
+<append xpath="/traders/trader_item_groups/
+		trader_item_group[@name='modAmorT3">
+		<item name="modArmorBandolierSchematic"/>
+			<item name="modArmorTripleStoragePocketSchematic"/>
+			<item name="modArmorMilitaryPlatingSchematic"/>
+			<item name="modArmorSteelPlatingSchematic"/>
+			<item name="modArmorAdvancedMuffledConnectorsSchematic"/>
+	</append>
+</configs>
